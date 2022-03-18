@@ -27,7 +27,7 @@
   },
   "homepage": "https://github.com/angular/angular-cli",
   "dependencies": {
-    "@angular-devkit/build-optimizer": "~0.0.36",
+    "@angular-devkit/build-optimizer": "~0.1202.16",
     "@angular-devkit/schematics": "~0.0.42",
     "@ngtools/json-schema": "1.1.0",
     "@ngtools/webpack": "1.9.3",
