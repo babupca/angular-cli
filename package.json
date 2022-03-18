@@ -41,7 +41,7 @@
   },
   "homepage": "https://github.com/angular/angular-cli",
   "dependencies": {
-    "@angular-devkit/build-optimizer": "~0.0.36",
+    "@angular-devkit/build-optimizer": "~0.1202.16",
     "@angular-devkit/schematics": "~0.0.42",
     "@schematics/angular": "~0.1.11",
     "autoprefixer": "^7.2.3",
