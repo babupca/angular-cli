@@ -2,7 +2,7 @@
   "name": "test",
   "license": "MIT",
   "dependencies": {
-    "@angular/common": "^2.3.1",
+    "@angular/common": "^19.2.16",
     "@angular/compiler": "^2.3.1",
     "@angular/compiler-cli": "^2.3.1",
     "@angular/core": "^2.3.1",
